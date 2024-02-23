@@ -14,11 +14,7 @@
 ⚡ Fun fact: I can draw parallels between the torque in an engine and the torque in a piece of code (just kidding... or am I?).
 
 <picture>
- <img alt="Image" src="https://www.flaticon.com/free-icon/engineering_1875151](https://cdn-icons-png.flaticon.com/512/1875/1875151.png)https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
 </picture>
