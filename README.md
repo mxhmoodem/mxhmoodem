@@ -14,7 +14,7 @@
 ⚡ Fun fact: I can draw parallels between the torque in an engine and the torque in a piece of code (just kidding... or am I?).
 
 <picture>
- <img alt="Image" src="[https://www.flaticon.com/free-icon/engineering_1875151](https://cdn-icons-png.flaticon.com/512/1875/1875151.png)https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
+ <img alt="Image" src="https://www.flaticon.com/free-icon/engineering_1875151](https://cdn-icons-png.flaticon.com/512/1875/1875151.png)https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
 </picture>
 
 <picture>
