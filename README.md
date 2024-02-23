@@ -12,3 +12,7 @@
 💬 Ask me how transitioning from mechanical engineering has given me a unique perspective on problem-solving in the software realm.
 
 ⚡ Fun fact: I can draw parallels between the torque in an engine and the torque in a piece of code (just kidding... or am I?).
+
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://www.flaticon.com/free-icon/engineering_1875151">
+</picture>
