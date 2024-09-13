@@ -13,8 +13,3 @@
 
 ⚡ Fun fact: I can draw parallels between the torque in an engine and the torque in a piece of code (just kidding... or am I?).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn-icons-png.flaticon.com/512/1875/1875151.png">
-</picture>
