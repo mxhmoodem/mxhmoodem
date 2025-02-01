@@ -1,15 +1,31 @@
+# Hi, I'm Mahmood! 👋
 
-🔧 Originally from a mechanical engineering background, I'm pivoting into the dynamic world of software engineering and web development. The mechanics of code fascinate me just as much as physical machines!
 
-🔭 I’m currently working on some exciting web development projects and lloking for a software/tech bootcamp to expand my knowledge even further!
+Originally from a Mechanical Engineering background, I'm now diving deep into software engineering, AI/ML and web development. My passion for problem-solving has transitioned from physical machines to writing clean and efficient code.
 
-🌱 I’m in the process of expanding my software toolkit. From web development using HTML and CSS to making games in Python, every day is a new learning experience and I'm loving the journey.
 
-👯 Open to collaborations! If you have a project that could use a unique blend of engineering and coding skills, let's chat.
+💡 What I'm Up To:
 
-💡 I’m seeking mentorship and advice from experienced developers. Got tips for a transitioning engineer? I’m all ears.
+- Software Engineering: Experienced with Angular, React and Node.js, I’ve developed customer-facing web applications and collaborated with cross-functional teams on large-scale projects.
 
-💬 Ask me how transitioning from mechanical engineering has given me a unique perspective on problem-solving in the software realm.
+- Embedded Systems & Control: Designed an automatic yaw control system for a miniature wind turbine, integrating sensors and microcontrollers with C/C++ and Arduino.
 
-⚡ Fun fact: I can draw parallels between the torque in an engine and the torque in a piece of code (just kidding... or am I?).
+- Data & Simulation: Worked on techno-economic analysis using Python and MATLAB, researching zero-carbon fuels and vehicle powertrain simulations.
 
+- Full-Stack Development: Built projects like face detection apps using APIs and developed websites for local businesses.
+
+👯 Let’s Collaborate! If you have a project where mechanical engineering meets software, I’m always open to innovative ideas.
+
+💬 Ask Me About:
+
+- How my engineering background gives me a unique perspective in software development.
+
+- My experience working in FinTech, sustainable energy and AI-driven applications.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://developedbymahmood.co.uk)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmood-el-mahalawy-234a27225/)
+
+## 🛠 Skills
+Python, Javascript, TypeScript, HTML, CSS, Angular, React, SQL, MATLAB
